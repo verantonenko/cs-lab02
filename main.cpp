@@ -1,12 +1,11 @@
 #include <iostream>
-#include <algorithm>
 
 using namespace std;
 
 int main()
 {
     cout << "enter A and B: ";
-    int a, b;
+    double a, b;
     cin >> a >> b;
 
     cout << "a + b = " << a + b << endl
@@ -20,3 +19,4 @@ int main()
     else
         cout << "the numbers are equal." << endl;
 }
+
