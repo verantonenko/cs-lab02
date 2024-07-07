@@ -10,5 +10,6 @@ int main()
 
     cout << "a + b = " << a + b << endl
          << "a - b = " << a - b << endl
-         << "a * b = " << a * b << endl;
+         << "a * b = " << a * b << endl
+         << "a / b = " << a / b << endl;
 }
